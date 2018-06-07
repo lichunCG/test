@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class TestApplication {
-//测试1234
+//测试12345
     public static void main(String[] args) {
         SpringApplication.run(TestApplication.class, args);
     }
